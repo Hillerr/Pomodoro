@@ -1,16 +1,29 @@
-# pomodoro
+# Pomodoro App
 
-A new Flutter project.
+A mobile app developed for Pomodoro technique implementation. 
 
-## Getting Started
+## Objective
 
-This project is a starting point for a Flutter application.
+This App gives the users the opportunity specify studying and resting time, using the Pomodoro technique.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screen Shots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Studying time
+
+![Study](/images/pomodoro2.png)
+
+* Resting time
+
+![Rest](/images/pomodoro.png)
+
+
+## License
+
+MIT © Rafael Hiller
+
+## Autor
+
+Developed by Rafael Hiller.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/rafael-hiller-0aa187133/)](https://www.linkedin.com/in/rafael-hiller-0aa187133/) 
